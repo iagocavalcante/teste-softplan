@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  softplan-front:
+    build: './softplan-front'
+    ports: 
+      - "8080:80"
+    depends_on:
+      - sofplan-api
+  softplan-api:
+    build: './softplan'
+    ports: 
+      - "8000:8000"
