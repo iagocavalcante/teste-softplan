@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "siegen",
+                "projectName": "siegen",
+                "workingDirectory": "c:\\Users\\Tron\\Desktop\\Projetos\\Spring\\testeSoftplan",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "siegen",
+                "projectName": "siegen",
+                "workingDirectory": "c:\\Users\\Tron\\Desktop\\Projetos\\Spring\\testeSoftplan",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
