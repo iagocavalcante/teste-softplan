@@ -17,7 +17,7 @@
 # FROM nginx:1.13.7-alpine
 
 # COPY --from=node /softplan-front/dist/ /usr/share/nginx/html
-FROM node:8.16.1 as node
+FROM node:8.16.2 as node
 
 RUN mkdir -p /softplan-front
 
