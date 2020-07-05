@@ -15,7 +15,7 @@
   "dependencies": {
     "axios": "0.19.2",
     "vue": "2.6.11",
-    "vue-router": "3.1.5"
+    "vue-router": "3.3.4"
   },
   "devDependencies": {
     "autoprefixer": "9.7.4",
@@ -61,8 +61,8 @@
     "shelljs": "0.8.3",
     "uglifyjs-webpack-plugin": "2.2.0",
     "url-loader": "3.0.0",
-    "vue-jest": "3.0.5",
-    "vue-loader": "15.9.0",
+    "vue-jest": "3.0.6",
+    "vue-loader": "15.9.3",
     "vue-style-loader": "4.1.2",
     "vue-template-compiler": "2.6.11",
     "webpack": "4.41.6",
