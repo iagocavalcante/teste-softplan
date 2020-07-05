@@ -6,7 +6,7 @@ services:
     ports: 
       - "8080:80"
     depends_on:
-      - sofplan-api
+      - softplan-api
   softplan-api:
     build: './softplan'
     ports: 
