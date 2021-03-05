@@ -6,7 +6,7 @@ Ainda dentro da pasta `softplan` para rodar somente os testes você pode executa
 
 ## Deploy
 
-** É necessário ter construído a aplicação antes **
+**É necessário ter construído a aplicação antes**
 
 Para rodar a aplicação é necessário ter o docker instalado, navegue até o diretório raiz do projeto
 e rode o comando abaixo: 
