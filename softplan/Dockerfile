@@ -1,4 +1,4 @@
-FROM openjdk:8-jdk-alpine
+FROM openjdk:17-jdk-alpine
 VOLUME /tmp
 ADD target/*.jar softplan.jar
 RUN bash -c 'touch /softplan.jar'
